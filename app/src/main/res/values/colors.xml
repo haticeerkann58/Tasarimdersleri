@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_background">#121212</color>
+    <color name="dark_background">#121212</color>
+    <color name="light_text">#FFFFFF</color>
+    <color name="dark_text">#FFFFFF</color>
+    <color name="anaRenkKoyu">#F44336</color> <!-- Mor gibi bir şey -->
+
+</resources>

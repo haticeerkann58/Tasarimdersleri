@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasarimdersleri</string>
+    <resources>
+        <string name="app_name">Letterbox</string>
+        <string name="home">Ana Sayfa</string>
+        <string name="discover">Keşfet</string>
+        <string name="search">Ara</string>
+        <string name="profile">Profil</string>
+        <string name="login">Giriş Yap</string>
+        <string name="signup">Kayıt Ol</string>
+        <string name="logout">Çıkış Yap</string>
+        <string name="welcome">Hoş geldiniz!</string>
+    </resources>
+
+</resources>
